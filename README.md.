@@ -1,0 +1,58 @@
+ Machine Learning – CIE II Activity 1
+
+ Dataset Preparation and Exploratory Data Analysis
+
+ Student Details
+- Name: Sanika Ganesh Bandgar
+- Roll Number: AD3173
+- Division: A
+- Course: B.Tech Artificial Intelligence and Data Science
+- Subject: Machine Learning
+
+ Aim
+To prepare a tabular dataset for machine learning by performing data inspection, missing value checking, duplicate removal, exploratory data analysis, categorical encoding, and numerical feature scaling.
+
+ Dataset Information
+- Dataset: Student Performance Dataset
+- Source: UCI Machine Learning Repository
+- Records: 395
+- Features: 33
+- Target: G3 (Final Grade)
+
+Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Google Colab
+
+ Procedure
+1. Imported required Python libraries.
+2. Loaded the Student Performance dataset.
+3. Inspected dataset structure and data types.
+4. Checked missing values.
+5. Identified and removed duplicate records.
+6. Performed exploratory data analysis.
+7. Created data visualizations.
+8. Encoded categorical variables.
+9. Scaled numerical features using StandardScaler.
+10. Exported the prepared dataset into CSV files.
+
+ Visualizations
+- Histogram of final grades.
+- Bar chart of school distribution.
+- Correlation heatmap.
+- Box plot of final grades.
+
+ Files Included
+- CIE2_Activity1_Dataset_Preparation.ipynb
+- student_performance_cleaned.csv
+- student_performance_encoded_scaled.csv
+
+ Conclusion
+The dataset preparation process helps convert raw student performance data into a structured format suitable for further machine learning analysis.
+
+ Dataset Source
+https://archive.ics.uci.edu/dataset/320/student+performance
